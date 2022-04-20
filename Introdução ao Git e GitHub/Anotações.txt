@@ -1,0 +1,7 @@
+Link para Dowload do Git:https://git-scm.com/downloads
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Iniciando O git e criando um commit
+- git init
+- git add
+- git commit
